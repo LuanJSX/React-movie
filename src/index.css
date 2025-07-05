@@ -2,6 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 @import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
 
 @theme {
     --color-primary: #030014;
@@ -17,7 +19,7 @@
 
     --breakpoint-xs: 480px;
 
-    --background-image-hero-pattern: url("/public/hero-bg.png");
+    --background-image-hero-pattern: url("/public/img/hero-bg.png");
 }
 
 @layer base {
