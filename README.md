@@ -41,11 +41,11 @@ npm install
 # Execute o projeto
 npm run dev
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-vNVbh9BgNw?si=VaK4V3g1RkeHxHzO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📸 Prévia
 
 
-https://github.com/user-attachments/assets/1a054448-8b1f-444c-a3bc-7de41a41fe62
 
 
 
