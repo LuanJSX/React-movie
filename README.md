@@ -43,3 +43,6 @@ npm run dev
 
 
 📸 Prévia
+[screen-capture (1).webm](https://github.com/user-attachments/assets/1a9ca62a-dfb4-4c0a-8f6a-73ec80c76a54)
+
+
