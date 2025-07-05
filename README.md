@@ -32,6 +32,10 @@ Durante o desenvolvimento, aprendi e pratiquei:
 ## 📁 Estrutura do Projeto
 
 
+https://github.com/user-attachments/assets/d19d63f6-3b14-4087-8af0-bf2b010b8a76
+
+
+
 ## 🛠️ Como rodar localmente
 
 ```bash
@@ -41,7 +45,6 @@ npm install
 # Execute o projeto
 npm run dev
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-vNVbh9BgNw?si=VaK4V3g1RkeHxHzO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📸 Prévia
 
